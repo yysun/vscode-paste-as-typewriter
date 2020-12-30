@@ -3,6 +3,7 @@
 	"displayName": "paste-as-typewriter",
 	"description": "Paste text using the typewriter effects",
 	"version": "0.0.1",
+	"publisher": "yiyisun",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
@@ -17,7 +18,7 @@
 		"commands": [
 			{
 				"command": "paste-as-typewriter.helloWorld",
-				"title": "Hello World"
+				"title": "Typewriter Paste"
 			}
 		]
 	},
@@ -36,5 +37,9 @@
 		"mocha": "^8.1.3",
 		"typescript": "^4.1.2",
 		"vscode-test": "^1.4.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yysun/vscode-paste-as-typewriter.git"
 	}
 }
