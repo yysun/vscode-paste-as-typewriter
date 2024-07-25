@@ -2,7 +2,7 @@
 	"name": "paste-as-typewriter",
 	"displayName": "paste-as-typewriter",
 	"description": "Paste text using the typewriter effects",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "yiyisun",
 	"engines": {
 		"vscode": "^1.52.0"
@@ -18,7 +18,7 @@
 		"commands": [
 			{
 				"command": "paste-as-typewriter.helloWorld",
-				"title": "Typewriter Paste"
+				"title": "Paste like typewriter"
 			}
 		]
 	},
